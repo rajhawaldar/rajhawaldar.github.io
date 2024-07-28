@@ -3318,10 +3318,6 @@ img {
   content: "";
 }
 
-.page-header:before {
-  background-color: rgba(0, 0, 0, 0.5);
-}
-
 .page-header[filter-color="orange"] {
   background: rgba(44, 44, 44, 0.2);
   /* For browsers that do not support gradients */
@@ -4864,7 +4860,7 @@ img {
 
 .cc-profile-image a:before {
   content: "";
-  border: 15px solid rgba(55, 140, 63, 0.6);
+  border: 15px solid rgba(255, 255, 255, 0.6);
   border-radius: 50%;
   height: 180px;
   width: 180px;

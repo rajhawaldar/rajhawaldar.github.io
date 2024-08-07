@@ -38,7 +38,7 @@ I am passionate about exploring open-source tools and advocating for their use t
 I specialize in automation, finding innovative solutions to real-life problems, and making systems more efficient and reliable .
 In my spare time, I enjoy reading tech blogs and surfing YouTube for the latest trends and developments in the tech world .
 I am also passionate about mentoring and guiding newcomers to the industry, helping them navigate their career paths and achieve their goals`;
-        this.resumeurl = "#";
+        this.resumeurl = "https://1drv.ms/b/s!ApLu7F3yekG34F8-GFR3NjnY5gdO?e=fHfaYU";
         this.skillsData = [
             {
                 'id': '5',

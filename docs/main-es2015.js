@@ -38,7 +38,7 @@ I am passionate about exploring open-source tools and advocating for their use t
 I specialize in automation, finding innovative solutions to real-life problems, and making systems more efficient and reliable .
 In my spare time, I enjoy reading tech blogs and surfing YouTube for the latest trends and developments in the tech world .
 I am also passionate about mentoring and guiding newcomers to the industry, helping them navigate their career paths and achieve their goals`;
-        this.resumeurl = "https://1drv.ms/b/s!ApLu7F3yekG34F8-GFR3NjnY5gdO?e=fHfaYU";
+        this.resumeurl = "https://1drv.ms/b/s!ApLu7F3yekG35CqRnhvrLindLM3S?e=ff7r8d";
         this.skillsData = [
             {
                 'id': '5',
@@ -123,7 +123,7 @@ Completed my Secondary school with 84%.`
                 projects: [{
                         domain: 'Logistics',
                         tech: 'Kubernetes, Docker, Azure, Terraform, ArgoCD, Helm, GitHub Actions, Go, Bash Script, JFrog, NewRelic',
-                        work: 'Experience of Managing 500+ microservices on K8s clusters . Involved in the development of CLI tool using Go to deploy microservices in Kubernetes (Initially when the service count was below 300) .Integrated that CLI tool with GitHub workflows to release microservices .Developed a Slack bot in Go lang to automate the deployment activities from slack .Migrated the release process from in-house cli tool to ArgoCD . Automating CI/CD tasks with the help of Bash Scripts',
+                        work: 'Experience of Managing 800+ microservices on K8s clusters .Optimized Kubernetes resource usage through initiatives like right-sizing resources and implementing Horizontal Pod Autoscalers to reduce costs .Involved in the development of CLI tool using Go to deploy microservices in Kubernetes .Integrated that CLI tool with GitHub workflows to release microservices .Developed a Slack bot in Go lang to automate the deployment activities from slack .Migrated the release process from in-house cli tool to ArgoCD .Hands on experience with bash script to automate tasks',
                     }]
             },
             {
